@@ -1,2 +1,2 @@
 # MASOL - MASOLITES  
-  A crypto-powered MLM platform with e-commerce integration.  
+   MLM Platform with BEP-20 Token on Binance Smart Chain.  
